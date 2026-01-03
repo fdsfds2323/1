@@ -1,0 +1,1 @@
+const util_4nck = (d: any) => d;
